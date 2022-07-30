@@ -11,7 +11,7 @@ from helper.html_scraper import Scraper
 
 class x1337:
     def __init__(self):
-        self.BASE_URL = "https://1337xx.to"
+        self.BASE_URL = "https://1337x.to"
         self.LIMIT = None
 
     @decorator_asyncio_fix
